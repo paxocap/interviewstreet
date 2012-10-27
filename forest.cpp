@@ -82,7 +82,6 @@ int main()
       if(childCount[i]%2==0&&childCount[i]!=0) {
 	  even_count++;
       }
-//      cout<<childCount[i]<<"\t";
     }
     cout<<even_count;
     return 0;
